@@ -3,4 +3,4 @@ a simple python3 script for a buffer overflow vulnerability.
 
 You can download the vulnerable installer for SyncBreeze version 10.0.28, and enable the web service:
 
-<img src="SyncBreeze.png" width="300" height="300">
+<img src="SyncBreeze.png" width="500" height="500">
